@@ -1,4 +1,5 @@
-#from guesslang import Guess
+from guesslang import Guess
+#use guesslang to detect source code language
 
 LangGuess = Guess()
 
